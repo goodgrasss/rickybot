@@ -1,0 +1,2 @@
+# rickybot
+discord bot
